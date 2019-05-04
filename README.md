@@ -49,3 +49,55 @@ Good mentor:
 - curious and open-minded
 - listen and speak mentee language
 - make connections
+
+### Tech Lead
+
+- more then just a good engineer, good communicator as well
+- write clear documents
+- give presentations
+- talk to people in different teams and different roles
+- good at prioritizing
+- do what need to be done to make progress
+
+Tech lead standards:
+
+- regular (weekly) 1-1 touchbases
+- regular feedback on career growth, progression towards goals, areas for improvement, and praise
+- working with reports to identify areas for learning and helping them grow
+
+Learning how to partner effectively with product, analytics, and other areas of the business.
+
+A leader, responsible for a (software) development team, who spends at least 30 percent of their time writing code with the team.
+
+One Weird Trick
+
+Willingness to step away from the code and figure out how to balance your technical commitments with the whole team needs. **Balancing** is core challenge.
+
+Main roles:
+
+- System architect and business analyst
+
+  Have a good sense of the overall architecture of your systems and a solid understanding of how to design complex software. Understand business requirements and translate them into software.
+   
+- Project planner
+
+  Getter input from the experts on your team. Identify priorities.
+  
+- Software developer and team leader 
+
+  Continue writing code, but not too much. Delegate work.
+  
+Managing a Project
+
+  1. Break down the work
+  2. Push through the details and the unknowns
+  3. Run the project and adjust the plan as you go
+  4. Use the insights gained in the planning process to manage requirements changes
+  5. Revisit the details as you get close to completion
+  
+Characteristics of a great Tech Lead:
+
+- Understand the architecture
+- Be a team player
+- Lead technical decisions
+- Communicate
