@@ -101,3 +101,29 @@ Characteristics of a great Tech Lead:
 - Be a team player
 - Lead technical decisions
 - Communicate
+
+### Managing People
+
+Main tasks:
+
+- Taking on a new report
+- Holding regular 1-1s
+- Giving feedback on career growth, progression towards goals, areas for improvement and praise
+- Working with reports to identify areas for learning and helping them grow in these areas
+
+Steps you can take to be great at giving continuous feedback:
+
+1. Know your people
+2. Observe your people
+3. Provide lightweight, regular feedback
+4. Provide caching
+
+Writing and delivering a performance review guidelines:
+
+- Give yourself enough time, and start early
+- Try to account for the whole year, not just the past couple of months
+- Use concrete examples, and excerpts from peer reviews
+- Spend plenty of time on accomplishments and strengths
+- When it comes to areas for improvement, keep it focused
+- Avoid big surprises
+- Schedule enough time to discuss the review
