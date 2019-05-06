@@ -3,27 +3,27 @@
 ### Management 101
 
 Basic tasks:
-- one-one-one meetings
-- feedback and workplace guidance
-- training and career growth
+- One-one-one meetings
+- Feedback and workplace guidance
+- Training and career growth
 
 Good managers:
-- care about you as a person
-- actively work to help you grow in your career
-- teach you important skills
-- give you valuable feedback
-- help you navigate difficult situations
-- help you figure out what you need to learn
-- want you to take their job someday
-- help you to understand what is important to focus on and enable you to have that focus
+- Care about you as a person
+- Actively work to help you grow in your career
+- Teach you important skills
+- Give you valuable feedback
+- Help you navigate difficult situations
+- Help you figure out what you need to learn
+- Want you to take their job someday
+- Help you to understand what is important to focus on and enable you to have that focus
 
 ### Mentoring
 
 Mentoring an intern:
 
-  1. prepare for his arrival
-  2. have a project for him to work on
-  3. plan to have him present the work he did at the end of the program
+  1. Prepare for his arrival
+  2. Have a project for him to work on
+  3. Plan to have him present the work he did at the end of the program
 
 Find a project for intern to work on. Get him started with setting up tools and checking out the code and touch base several times a day to make sure he's not feeling lost and going in the right direction.
 
@@ -32,11 +32,11 @@ Listen carefully, clearly communicate and calibrate your responses.
 Mentoring a new hire
 
 - Encourage to ask questions
-- do pair programming
-- help to adjust to life in the company effectively
-- help building here network of contacts in the company
-- have step-by-step guides to setting up their development environment and tools need for the job
-- let her update on-boarding documents
+- Do pair programming
+- Help to adjust to life in the company effectively
+- Help building her network of contacts in the company
+- Have step-by-step guides to setting up their development environment and tools needed for the job
+- Let her update on-boarding documents
 
 Be very very careful of promoting _alpha geek_ to manager/mentor roles. 
 
@@ -46,24 +46,24 @@ What you measure, you improve. Create clear, focused, measurable goals.
 Goal is to help a new person on the team get up to speed and be productive or help people for career or skills growth.
 
 Good mentor:
-- curious and open-minded
-- listen and speak mentee language
-- make connections
+- Curious and open-minded
+- Listen and speak mentee language
+- Make connections
 
 ### Tech Lead
 
-- more then just a good engineer, good communicator as well
-- write clear documents
-- give presentations
-- talk to people in different teams and different roles
-- good at prioritizing
-- do what need to be done to make progress
+- More then just a good engineer, good communicator as well
+- Write clear documents
+- Give presentations
+- Talk to people in different teams and different roles
+- Good at prioritizing
+- Do what need to be done to make progress
 
 Tech lead standards:
 
-- regular (weekly) 1-1 touchbases
-- regular feedback on career growth, progression towards goals, areas for improvement, and praise
-- working with reports to identify areas for learning and helping them grow
+- Regular (weekly) 1-1 touchbases
+- Regular feedback on career growth, progression towards goals, areas for improvement, and praise
+- Working with reports to identify areas for learning and helping them grow
 
 Learning how to partner effectively with product, analytics, and other areas of the business.
 
